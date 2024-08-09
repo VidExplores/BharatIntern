@@ -1,0 +1,19 @@
+*
+{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url('weather.jpg');
+}
+.container{
+    width: 600px;
+    margin: 100px auto;
+    padding: 40px;
+}
+.inputs
+{
+    padding: 2rem 0 2rem 0;
+}
